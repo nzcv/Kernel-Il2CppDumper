@@ -7,6 +7,6 @@
 
 #include "game.h"
 
-void il2cpp_dump(void *handle, char *outDir);
+void il2cpp_dump(void *handle, const char *outDir);
 
-#endif //RIRU_IL2CPPDUMPER_IL2CPP_H
+#endif  // RIRU_IL2CPPDUMPER_IL2CPP_H

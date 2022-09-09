@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.18.1)
 
+set(MODULE_NAME dumper)
+
 if (NOT DEFINED MODULE_NAME)
     message(FATAL_ERROR "MODULE_NAME is not set")
 else ()

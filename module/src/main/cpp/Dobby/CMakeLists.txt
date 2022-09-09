@@ -436,5 +436,5 @@ if(SYSTEM.Darwin)
   endif()
 endif()
 
-add_subdirectory(example)
+# add_subdirectory(example)
 
